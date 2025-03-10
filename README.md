@@ -58,14 +58,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tejahaha&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejahaha&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tejahaha&show_icons=true&theme=radical" alt="Teja's GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejahaha&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Tejahaha&theme=radical" alt="Teja's GitHub Streak" />
+  </a>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tejahaha&layout=compact&theme=radical" alt="Teja's Top Languages" />
+</div>
 ## ⚡ Fun fact
 I like to develop for fun and to challenge myself! Every project is a new opportunity to learn and grow.
 
